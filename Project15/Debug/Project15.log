@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\маргарита\desktop\tetris\project15\main.cpp(88): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\маргарита\desktop\tetris\project15\main.cpp(89): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\маргарита\desktop\tetris\project15\main.cpp(209): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\маргарита\desktop\tetris\project15\main.cpp(239): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\маргарита\desktop\tetris\project15\main.cpp(250): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\маргарита\desktop\tetris\project15\main.cpp(335): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\маргарита\desktop\tetris\project15\main.cpp(360): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\маргарита\desktop\tetris\project15\main.cpp(395): warning C4305: =: усечение из "double" в "float"
+c:\users\маргарита\desktop\tetris\project15\main.cpp(403): warning C4305: =: усечение из "double" в "float"
+c:\users\маргарита\desktop\tetris\project15\main.cpp(416): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\маргарита\desktop\tetris\project15\main.cpp(423): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Project15.vcxproj -> C:\Users\Маргарита\Desktop\Tetris\Project15\Debug\Project15.exe

@@ -1,0 +1,5 @@
+mem - 6
+sad - 5
+rita - 2
+rita - 4
+sad - 7
